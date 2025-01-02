@@ -1,8 +1,6 @@
 # OPC---Projet-3
 Requête d'une BDD (SQL)
 
-Réalisation d'une étude de santé publique (Python)
-
 <br>
 
 Objectifs pédagogiques
